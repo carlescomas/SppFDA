@@ -1,0 +1,13 @@
+Package: SppFDA
+Type: Package
+Title: Methods to analysis point pattern wioth mark-functional marks
+Version: 0.1.0
+Author: Who wrote it
+Maintainer: Carles Comas <carles.comas@udl.cat>
+Description: Methods to analysis point pattern wioth mark-functional marks
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.2
+Depends: R (>= 2.10), spatstat(>= 1.61-0)
+Imports: spatstat
